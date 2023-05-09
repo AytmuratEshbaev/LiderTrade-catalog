@@ -11,8 +11,6 @@ const Product = ({ product }: Props) => {
             </div>
             <div className="product__text">
                 <h4 className="product__name">{product.productName}</h4>
-                <p className="product__description">{product.productDescription}</p>
-                <h4 className="product__price">UZS {product.productPrice}</h4>
             </div>
         </Link>
     )

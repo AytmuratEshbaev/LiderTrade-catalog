@@ -9,6 +9,4 @@ export interface IProduct {
     productId: number
     productName: string;
     productImg: string;
-    productDescription: string;
-    productPrice: number;
 }

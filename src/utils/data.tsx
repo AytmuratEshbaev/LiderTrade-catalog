@@ -9,79 +9,57 @@ const catalog: ICatalog = [
         products: [
             {
                 productName: "uslada1",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada1.jpg",
+                productImg: "./images/0.1.jpg",
                 productId: 0
             },
             {
                 productName: "uslada2",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada2.jpg",
+                productImg: "./images/0.2.jpg",
                 productId: 1
             },
             {
                 productName: "uslada2",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada2.jpg",
+                productImg: "./images/0.2.jpg",
                 productId: 2
             },
             {
                 productName: "uslada3",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada3.jpg",
+                productImg: "./images/0.3.jpg",
                 productId: 3
             },
             {
                 productName: "uslada4",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada4.jpg",
+                productImg: "./images/0.4.jpg",
                 productId: 4
             },
             {
                 productName: "uslada5",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada5.jpg",
+                productImg: "./images/0.5.jpg",
                 productId: 5
             },
             {
                 productName: "uslada6",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada6.jpg",
+                productImg: "./images/0.6.jpg",
                 productId: 6
             },
             {
                 productName: "uslada7",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada7.jpg",
+                productImg: "./images/0.7.jpg",
                 productId: 7
             },
             {
                 productName: "uslada8",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada8.jpg",
+                productImg: "./images/0.8.jpg",
                 productId: 8
             },
             {
                 productName: "uslada9",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada9.jpg",
+                productImg: "./images/0.9.jpg",
                 productId: 9
             },
             {
                 productName: "uslada10",
-                productPrice: 12000,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/uslada10.jpg",
+                productImg: "./images/0.10.jpg",
                 productId: 10
             }
         ]
@@ -92,8 +70,6 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
@@ -105,23 +81,17 @@ const catalog: ICatalog = [
         products: [
             {
                 productName: "guzel1",
-                productPrice: 12,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/guzel1.jpg",
+                productImg: "./images/2.1.jpg",
                 productId: 0
             },
             {
                 productName: "guzel2",
-                productPrice: 12,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/guzel2.jpg",
+                productImg: "./images/2.2.jpg",
                 productId: 1
             },
             {
                 productName: "guzel3",
-                productPrice: 12,
-                productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-                productImg: "./images/guzel3.jpg",
+                productImg: "./images/2.3.jpg",
                 productId: 2
             },
         ]
@@ -132,34 +102,26 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [
             {
-            productName: "ulker turk1",
-            productPrice: 12,
-            productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-            productImg: "./images/turk1.jpg",
-            productId: 0
-        },
-        {
-            productName: "ulker turk2",
-            productPrice: 12,
-            productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-            productImg: "./images/turk2.jpg",
-            productId: 1
-        },
-        {
-            productName: "ulker turk3",
-            productPrice: 12,
-            productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-            productImg: "./images/turk3.jpg",
-            productId: 2
-        },
-        {
-            productName: "ulker turk4",
-            productPrice: 12,
-            productDescription: "Zor hám sıpatlı tovar. Jetkizip beriw biypul.",
-            productImg: "./images/turk4.jpg",
-            productId: 3
-        },
-    ]
+                productName: "ulker turk1",
+                productImg: "./images/3.1.jpg",
+                productId: 0
+            },
+            {
+                productName: "ulker turk2",
+                productImg: "./images/3.2.jpg",
+                productId: 1
+            },
+            {
+                productName: "ulker turk3",
+                productImg: "./images/3.3.jpg",
+                productId: 2
+            },
+            {
+                productName: "ulker turk4",
+                productImg: "./images/3.4.jpg",
+                productId: 3
+            },
+        ]
     },
     {
         sectionId: 4,
@@ -167,8 +129,6 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
@@ -179,8 +139,6 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
@@ -191,8 +149,6 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
@@ -203,8 +159,6 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
@@ -215,11 +169,113 @@ const catalog: ICatalog = [
         sectionImg: "./images/z1.jpg",
         products: [{
             productName: "asdasd",
-            productPrice: 12,
-            productDescription: "",
             productImg: "./images/z1.jpg",
             productId: 0
         }]
+    },
+    {
+        sectionId: 9,
+        sectionName: 'Konfet',
+        sectionImg: "./images/z1.jpg",
+        products: [
+            {
+                productName: "konfet1",
+                productImg: "./images/9.1.jpg",
+                productId: 0
+            },
+            {
+                productName: "konfet2",
+                productImg: "./images/9.2.jpg",
+                productId: 1
+            },
+            {
+                productName: "konfet3",
+                productImg: "./images/9.3.jpg",
+                productId: 2
+            },
+            {
+                productName: "konfet4",
+                productImg: "./images/9.4.jpg",
+                productId: 3
+            },
+            {
+                productName: "konfet5",
+                productImg: "./images/9.5.jpg",
+                productId: 4
+            },
+            {
+                productName: "konfet6",
+                productImg: "./images/9.6.jpg",
+                productId: 5
+            },
+            {
+                productName: "konfet7",
+                productImg: "./images/9.7.jpg",
+                productId: 6
+            },
+        ]
+    },
+    {
+        sectionId: 10,
+        sectionName: 'Keks',
+        sectionImg: "./images/z1.jpg",
+        products: [
+            {
+                productName: "keks1",
+                productImg: "./images/10.1.jpg",
+                productId: 0
+            },
+            {
+                productName: "keks2",
+                productImg: "./images/10.2.jpg",
+                productId: 1
+            },
+            {
+                productName: "keks3",
+                productImg: "./images/10.3.jpg",
+                productId: 2
+            },
+            {
+                productName: "keks4",
+                productImg: "./images/10.4.jpg",
+                productId: 3
+            },
+            {
+                productName: "keks5",
+                productImg: "./images/10.5.jpg",
+                productId: 4
+            },
+            {
+                productName: "keks6",
+                productImg: "./images/10.6.jpg",
+                productId: 5
+            },
+            {
+                productName: "keks7",
+                productImg: "./images/10.7.jpg",
+                productId: 6
+            },
+            {
+                productName: "keks8",
+                productImg: "./images/10.8.jpg",
+                productId: 7
+            },
+            {
+                productName: "keks9",
+                productImg: "./images/10.9.jpg",
+                productId: 8
+            },
+            {
+                productName: "keks10",
+                productImg: "./images/10.10.jpg",
+                productId: 9
+            },
+            {
+                productName: "keks11",
+                productImg: "./images/10.11.jpg",
+                productId: 10
+            },
+        ]
     },
 ]
 
